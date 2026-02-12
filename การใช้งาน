@@ -1,0 +1,6 @@
+Node.js ติดตั้งแล้ว
+MySQL หรือ XAMPP ติดตั้งแล้ว
+สร้าง database police_inventory
+import ตาราง
+ตั้งค่า .env ใหม่
+npm install
